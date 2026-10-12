@@ -1,7 +1,7 @@
 {
   "name": "skills",
-  "description": "Agent skills from 2kw.ai: office files first (Excel workbooks)",
-  "version": "0.1.0",
+  "description": "Agent skills from 2kw.ai: Excel, Word, PDF and PowerPoint files",
+  "version": "0.2.0",
   "author": {
     "name": "Manfred Kunze Development"
   },
@@ -10,7 +10,12 @@
   "keywords": [
     "xlsx",
     "excel",
-    "spreadsheet",
+    "docx",
+    "word",
+    "pdf",
+    "ocr",
+    "pptx",
+    "powerpoint",
     "office"
   ]
 }

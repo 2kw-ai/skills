@@ -7,7 +7,7 @@
     {
       "name": "skills",
       "source": "./",
-      "description": "Agent skills from 2kw.ai: office files first (Excel workbooks)"
+      "description": "Agent skills from 2kw.ai: Excel, Word, PDF and PowerPoint files"
     }
   ]
 }
