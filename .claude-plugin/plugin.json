@@ -1,0 +1,16 @@
+{
+  "name": "skills",
+  "description": "Agent skills from 2kw.ai: office files first (Excel workbooks)",
+  "version": "0.1.0",
+  "author": {
+    "name": "Manfred Kunze Development"
+  },
+  "homepage": "https://2kw.ai",
+  "repository": "https://github.com/2kw-ai/skills",
+  "keywords": [
+    "xlsx",
+    "excel",
+    "spreadsheet",
+    "office"
+  ]
+}

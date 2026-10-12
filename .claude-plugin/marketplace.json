@@ -1,0 +1,13 @@
+{
+  "name": "2kw-skills",
+  "owner": {
+    "name": "Manfred Kunze Development"
+  },
+  "plugins": [
+    {
+      "name": "skills",
+      "source": "./",
+      "description": "Agent skills from 2kw.ai: office files first (Excel workbooks)"
+    }
+  ]
+}
